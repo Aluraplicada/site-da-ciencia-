@@ -1,0 +1,11 @@
+header{
+    text-align: center;
+    background-color: rgb(130, 221, 213) ;
+    padding: 1px;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.img-greider{
+    margin: 15px;
+}
